@@ -1,0 +1,101 @@
+Change Reference Number,Short Description,Impacted Application,Change Start Time,Change End Time,Status
+CR1001,Update service catalog,Customer CRM,2024-04-16 06:39:00,2024-11-14 20:56:44,In Progress
+CR1002,Conduct security audit,E-commerce Platform,2024-11-30 04:54:00,2024-11-16 17:56:44,In Progress
+CR1003,Replace outdated hardware,E-commerce Platform,2024-11-26 00:37:00,2024-11-16 04:56:44,In Progress
+CR1004,Perform scheduled backup,Inventory System,2024-05-05 04:31:00,2024-11-14 09:56:44,In Progress
+CR1005,Update desktop applications,E-commerce Platform,2024-02-09 02:59:00,2024-11-16 13:56:44,In Progress
+CR1006,Update network access policies,Customer CRM,2024-09-02 01:48:00,2024-11-14 07:56:44,In Progress
+CR1007,Implement automated testing,HR Portal,2024-09-22 12:26:00,2024-11-16 05:56:44,In Progress
+CR1008,Enhance mobile security,Customer CRM,2024-12-18 03:35:00,2024-11-14 08:56:44,In Progress
+CR1009,Update email archiving solution,HR Portal,2024-10-27 16:29:00,2024-11-15 15:56:44,In Progress
+CR1010,Upgrade VPN solution,Payment Gateway,2024-09-09 19:46:00,2024-11-16 06:56:44,In Progress
+CR1011,Update API integrations,Customer CRM,2024-06-15 09:06:00,2024-11-16 17:56:44,In Progress
+CR1012,Implement role-based access control,Inventory System,2024-01-25 14:45:00,2024-11-13 23:56:44,In Progress
+CR1013,Optimize server resource allocation,Payment Gateway,2024-04-06 10:48:00,2024-11-15 03:56:44,In Progress
+CR1014,Install new middleware solutions,Customer CRM,2024-01-27 10:53:00,2024-11-16 12:56:44,In Progress
+CR1015,Migrate to new email server,HR Portal,2024-03-18 18:34:00,2024-11-13 23:56:44,In Progress
+CR1016,Review and update compliance policies,Customer CRM,2024-06-20 18:54:00,2024-11-14 01:56:44,In Progress
+CR1017,Install new web analytics tools,Customer CRM,2024-01-07 04:03:00,2024-11-16 16:56:44,In Progress
+CR1018,Implement advanced threat protection,HR Portal,2024-05-20 11:02:00,2024-11-16 17:56:44,In Progress
+CR1019,Optimize server resource allocation,E-commerce Platform,2024-10-22 07:32:00,2024-11-14 15:56:44,In Progress
+CR1020,Upgrade VPN solution,E-commerce Platform,2024-02-11 23:49:00,2024-11-13 23:56:44,In Progress
+CR1021,Update data warehouse schema,Customer CRM,2024-06-07 02:57:00,2024-06-08 02:57:00,Closed
+CR1022,Implement disaster recovery plan,Payment Gateway,2024-08-31 11:08:00,2024-09-01 18:08:00,Closed
+CR1023,Enhance network segmentation,Payment Gateway,2024-06-27 12:31:00,2024-06-29 15:31:00,Closed
+CR1024,Implement disaster recovery plan,Inventory System,2024-03-06 09:06:00,2024-03-09 07:06:00,Closed
+CR1025,Enhance video conferencing system,Payment Gateway,2024-08-18 08:58:00,2024-08-18 15:58:00,Closed
+CR1026,Implement advanced threat protection,Customer CRM,2024-10-19 07:28:00,2024-10-21 17:28:00,Closed
+CR1027,Implement automated testing,Payment Gateway,2024-09-23 09:05:00,2024-09-25 00:05:00,Closed
+CR1028,Upgrade content management system,HR Portal,2024-08-10 12:54:00,2024-08-12 03:54:00,Closed
+CR1029,Deploy new data integration platform,Payment Gateway,2024-08-05 04:56:00,2024-08-05 05:56:00,Closed
+CR1030,Update DNS configurations,E-commerce Platform,2024-12-15 07:33:00,2024-12-16 21:33:00,In Progress
+CR1031,Implement advanced threat protection,HR Portal,2024-03-27 00:20:00,2024-03-27 21:20:00,Closed
+CR1032,Install new wireless access points,Inventory System,2024-05-19 00:36:00,2024-05-19 13:36:00,Closed
+CR1033,Implement load balancing,Customer CRM,2024-05-03 10:54:00,2024-05-04 17:54:00,Closed
+CR1034,Implement disaster recovery plan,Inventory System,2024-05-17 16:07:00,2024-05-18 00:07:00,Closed
+CR1035,Enhance remote desktop services,Inventory System,2024-04-03 12:06:00,2024-04-06 02:06:00,Closed
+CR1036,Enhance network traffic analysis,Customer CRM,2024-04-14 00:00:00,2024-04-16 23:00:00,Closed
+CR1037,Enhance remote desktop services,Payment Gateway,2024-05-15 22:04:00,2024-05-16 18:04:00,Closed
+CR1038,Upgrade content management system,Inventory System,2024-12-09 10:01:00,2024-12-10 23:01:00,In Progress
+CR1039,Enhance data encryption,E-commerce Platform,2024-08-27 00:54:00,2024-08-27 18:54:00,Closed
+CR1040,Optimize server resource allocation,Inventory System,2024-09-22 12:16:00,2024-09-23 06:16:00,Closed
+CR1041,Install new network switches,HR Portal,2024-04-09 16:53:00,2024-04-11 21:53:00,Closed
+CR1042,Update network access policies,E-commerce Platform,2024-08-04 03:31:00,2024-08-05 16:31:00,Closed
+CR1043,Install new software distribution system,Inventory System,2024-01-06 03:14:00,2024-01-07 05:14:00,Closed
+CR1044,Implement data loss prevention,E-commerce Platform,2024-12-28 07:52:00,2024-12-29 14:52:00,In Progress
+CR1045,Update application user interfaces,HR Portal,2024-04-23 08:19:00,2024-04-26 00:19:00,Closed
+CR1046,Review system performance metrics,Customer CRM,2024-08-18 12:01:00,2024-08-19 14:01:00,Closed
+CR1047,Update data warehouse schema,Inventory System,2024-05-26 22:28:00,2024-05-28 18:28:00,Closed
+CR1048,Upgrade desktop hardware,Customer CRM,2024-06-07 11:43:00,2024-06-09 21:43:00,Closed
+CR1049,Update system documentation,Customer CRM,2024-07-10 05:03:00,2024-07-12 02:03:00,Closed
+CR1050,Install new version of office suite,Inventory System,2024-03-20 21:29:00,2024-03-21 22:29:00,Closed
+CR1051,Update desktop applications,HR Portal,2024-11-02 17:12:00,2024-11-02 19:12:00,Closed
+CR1052,Enhance video conferencing system,E-commerce Platform,2024-10-24 13:02:00,2024-10-26 18:02:00,Closed
+CR1053,Enhance file sharing capabilities,E-commerce Platform,2024-06-19 21:58:00,2024-06-20 01:58:00,Closed
+CR1054,Install new web analytics tools,Inventory System,2024-03-19 23:08:00,2024-03-22 16:08:00,Closed
+CR1055,Integrate new payment gateway,Inventory System,2024-07-16 07:17:00,2024-07-16 19:17:00,Closed
+CR1056,Replace outdated hardware,Customer CRM,2024-03-13 13:35:00,2024-03-13 16:35:00,Closed
+CR1057,Implement GDPR compliance,Inventory System,2024-02-28 19:40:00,2024-02-29 05:40:00,Closed
+CR1058,Update antivirus definitions,Customer CRM,2024-11-26 17:52:00,2024-11-27 16:52:00,In Progress
+CR1059,Update antivirus definitions,HR Portal,2024-11-28 05:12:00,2024-11-29 15:12:00,In Progress
+CR1060,Install software updates,E-commerce Platform,2024-06-08 09:46:00,2024-06-11 04:46:00,Closed
+CR1061,Implement load balancing,HR Portal,2024-02-13 18:55:00,2024-02-15 14:55:00,Closed
+CR1062,Integrate new payment gateway,E-commerce Platform,2024-03-20 17:57:00,2024-03-21 08:57:00,Closed
+CR1063,Install new version of office suite,Customer CRM,2024-04-19 05:35:00,2024-04-21 10:35:00,Closed
+CR1064,Conduct security audit,HR Portal,2024-11-01 23:12:00,2024-11-03 01:12:00,Closed
+CR1065,Upgrade VPN solution,Customer CRM,2024-10-01 06:08:00,2024-10-03 14:08:00,Closed
+CR1066,Enhance email security,Inventory System,2024-05-28 18:01:00,2024-05-29 07:01:00,Closed
+CR1067,Migrate to cloud infrastructure,Customer CRM,2024-07-17 17:39:00,2024-07-18 00:39:00,Closed
+CR1068,Install new data visualization tools,HR Portal,2024-05-31 04:56:00,2024-05-31 12:56:00,Closed
+CR1069,Deploy new machine learning models,HR Portal,2024-04-22 07:40:00,2024-04-24 05:40:00,Closed
+CR1070,Deploy new chatbot,Customer CRM,2024-12-08 13:12:00,2024-12-09 09:12:00,In Progress
+CR1071,Install new patch management tool,Inventory System,2024-11-22 07:02:00,2024-11-24 07:02:00,In Progress
+CR1072,Upgrade desktop hardware,Customer CRM,2024-05-18 13:35:00,2024-05-18 14:35:00,Closed
+CR1073,Implement data loss prevention,HR Portal,2024-12-14 13:43:00,2024-12-15 05:43:00,In Progress
+CR1074,Update email archiving solution,Inventory System,2024-06-26 02:40:00,2024-06-26 13:40:00,Closed
+CR1075,Upgrade network cables,Inventory System,2024-07-30 07:14:00,2024-07-31 15:14:00,Closed
+CR1076,Install new network switches,E-commerce Platform,2024-07-20 00:55:00,2024-07-22 02:55:00,Closed
+CR1077,Review security incident response plan,Inventory System,2024-09-26 10:00:00,2024-09-29 02:00:00,Closed
+CR1078,Deploy new BI tools,E-commerce Platform,2024-03-04 06:49:00,2024-03-04 11:49:00,Closed
+CR1079,Implement data loss prevention,HR Portal,2024-08-07 02:23:00,2024-08-09 11:23:00,Closed
+CR1080,Enhance user access controls,E-commerce Platform,2024-01-18 17:34:00,2024-01-20 19:34:00,Closed
+CR1081,Upgrade network cables,Inventory System,2024-06-27 15:45:00,2024-06-29 00:45:00,Closed
+CR1082,Review security incident response plan,E-commerce Platform,2024-10-25 06:32:00,2024-10-25 07:32:00,Closed
+CR1083,Install new network switches,Inventory System,2024-02-01 13:39:00,2024-02-04 10:39:00,Closed
+CR1084,Perform data migration,HR Portal,2024-10-23 08:12:00,2024-10-23 09:12:00,Closed
+CR1085,Perform scheduled backup,E-commerce Platform,2024-01-07 01:32:00,2024-01-08 12:32:00,Closed
+CR1086,Enhance network segmentation,Customer CRM,2024-03-25 22:09:00,2024-03-26 12:09:00,Closed
+CR1087,Deploy new web server clusters,E-commerce Platform,2024-07-24 13:19:00,2024-07-25 05:19:00,Closed
+CR1088,Implement role-based access control,Customer CRM,2024-11-16 11:17:00,2024-11-19 09:17:00,In Progress
+CR1089,Update web application firewall,Customer CRM,2024-05-03 21:51:00,2024-05-04 18:51:00,Closed
+CR1090,Update data warehouse schema,Customer CRM,2024-06-19 08:59:00,2024-06-20 19:59:00,Closed
+CR1091,Deploy new mobile app version,HR Portal,2024-11-16 11:40:00,2024-11-16 19:40:00,In Progress
+CR1092,Update antivirus definitions,HR Portal,2024-10-22 02:25:00,2024-10-23 08:25:00,Closed
+CR1093,Implement single sign-on,E-commerce Platform,2024-08-28 18:12:00,2024-08-29 17:12:00,Closed
+CR1094,Update IT asset inventory,Customer CRM,2024-05-19 21:52:00,2024-05-21 06:52:00,Closed
+CR1095,Perform scheduled backup,HR Portal,2024-03-18 19:03:00,2024-03-21 17:03:00,Closed
+CR1096,Perform system health checks,Customer CRM,2024-11-04 10:50:00,2024-11-05 22:50:00,Closed
+CR1097,Upgrade content management system,Customer CRM,2024-12-07 07:58:00,2024-12-09 18:58:00,In Progress
+CR1098,Perform system health checks,Customer CRM,2024-01-14 10:29:00,2024-01-16 13:29:00,Closed
+CR1099,Enhance network segmentation,Payment Gateway,2024-04-24 04:29:00,2024-04-25 19:29:00,Closed
+CR1100,Update IT asset inventory,Inventory System,2024-03-15 03:20:00,2024-03-16 13:20:00,Closed
